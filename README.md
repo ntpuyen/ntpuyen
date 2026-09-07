@@ -3,7 +3,7 @@
 <h3 align="center">Business Data Science Student | Data Analyst Intern</h3>
 
 <p align="center">
-  Third-year Business Data Science student at University of Banking Ho Chi Minh City  with a strong foundation in Python, SQL, machine learning, and data visualization. Experienced in financial and business analytics projects involving data processing, exploratory data analysis (EDA), statistical modeling, and dashboard development.
+  Fourth-year Business Data Science student at University of Banking Ho Chi Minh City  with a strong foundation in Python, SQL, machine learning, and data visualization. Experienced in financial and business analytics projects involving data processing, exploratory data analysis (EDA), statistical modeling, and dashboard development.
 </p>
 
 <p align="center">
